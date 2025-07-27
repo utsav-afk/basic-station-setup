@@ -1,4 +1,6 @@
 # basic-station-setup
+https://www.thethingsindustries.com/docs/hardware/gateways/models/raspberry-pi/
+
 
 Step 1: Boot & Access Raspberry Pi
 
